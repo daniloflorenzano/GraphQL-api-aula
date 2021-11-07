@@ -42,6 +42,22 @@
       "role": 1,
       "createdAt": "2021-11-07T00:00:00.000Z",
       "id": 6
+    },
+    {
+      "nome": "Thay Absalao",
+      "ativo": false,
+      "email": "t@t.com",
+      "role": 3,
+      "createdAt": "2021-11-07T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "nome": "Paulo Pena",
+      "ativo": true,
+      "email": "t@t.com",
+      "role": 3,
+      "createdAt": "2021-11-07T00:00:00.000Z",
+      "id": 8
     }
   ],
   "roles": [
